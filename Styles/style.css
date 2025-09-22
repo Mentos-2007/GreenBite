@@ -10,7 +10,7 @@ body {
 }
 
 .homepage {
-  background-image: url("/Images/index.webp");
+  background-image: url("/images/index.webp");
   background-size: cover;
   background-position: center;
 }
@@ -135,7 +135,7 @@ footer {
 }
 
 .recipes {
-  background-image: url("/Images/recipe.webp");
+  background-image: url("/images/recipe.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -181,7 +181,7 @@ footer {
 }
 /* Background for Calculator Page */
 .calculator-background {
-  background-image: url("/Images/calculatorbackground.webp"); 
+  background-image: url("/images/calculatorbackground.webp"); 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -223,21 +223,21 @@ footer {
 
 /* Backgrounds */
 .workout {
-  background-image: url("/Images/workout.jpg");
+  background-image: url("/images/workout.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .mindfulness {
-  background-image: url("/Images/meditation.webp");
+  background-image: url("/images/meditation.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
 .contact {
-  background-image: url("/Images/contact.webp");
+  background-image: url("/images/contact.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -307,6 +307,7 @@ textarea {
   padding: 10px;
   background: #f9f9f9;
 }
+
 
 
 
